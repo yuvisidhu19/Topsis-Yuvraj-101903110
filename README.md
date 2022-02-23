@@ -9,4 +9,4 @@ Example of input from CLI:
   
 ```python example.py data.csv "1,2,3,2,1" "+,-,-,+,+" result.csv```
 
-PS: Weights and impacts are given as strings.
+PS: Weights and impacts should be provided as strings.
