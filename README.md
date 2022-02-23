@@ -1,4 +1,4 @@
-# Topsis-Yuvraj-101903110
+# Topsis
 This is a simple python package to perform Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS) from a csv file using command line interface.
 
 Format of input from CLI:
