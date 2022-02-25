@@ -9,7 +9,7 @@ Example of input from CLI:
   
 ```python example.py data.csv "1,2,3,2,1" "+,-,-,+,+" result.csv```
 
-PS: Weights and impacts should be provided as strings.
+PS: Weights and impacts should be provided as strings. '+' for higher impact and '-' for lower impact.
 
 Example code (Run this exact code using command line):
 ```
